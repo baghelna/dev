@@ -1,0 +1,80 @@
+/*Header*/
+
+header{
+	/*height: 170px;*/
+	border-radius: 30px;
+	text-align: center;
+	background-color: #666666;
+	/*margin-left: 2%;
+	margin-right: 2%;*/
+	padding-top: 1%;
+	background-image: url("hd3.jpg");
+}
+h1{
+	vertical-align: center;
+}
+
+
+nav>a{
+	display: inline-block;
+	margin-left: 4%;
+	margin-right: 4%;
+	/*border:solid;*/
+	/*margin: 3%;*/
+	color: #000000;
+	/*margin-bottom: 5%;*/
+	background-color: #ffffff;
+	border-radius: 10px;
+	text-shadow: 5px 5px 5px #666666;
+	padding: 20px;
+	font-size: 150%;
+	text-decoration: none;
+	opacity: 0.75;
+	padding: 10px;
+}
+a:hover{
+	/*color: #000000;
+	background-color: #ffffff;*/
+	opacity: 1;
+	transform: scale(1.08);
+}
+
+section{
+	display: inline-block;
+	float: right;
+	background-color: black;
+	padding-left: 0.3%;
+	padding-right: 0.3%
+}
+
+img{
+	height: 400px;
+	width: 400px;
+	border-radius: 20px;	
+}
+img:hover{
+	transform: scale(1.18);
+}
+div{
+	display: inline-block;
+	clear: all;
+}
+/*BODY*/
+body{
+	background-image: url("back2.jpg");
+	margin-left: 3%;
+	margin-right: 3%;
+	background-color: #EA8746;
+	
+}
+/*.NewPara{
+	float: right;
+	/*margin-left: 10%;
+	margin-right: 10%;*/
+	/*color: white;
+}*/
+p{
+	margin-left: 28%;
+	margin-right: none;
+	font-size: 160%;
+}
